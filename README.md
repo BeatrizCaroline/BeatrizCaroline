@@ -4,7 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade S�
 Programadora em evolução, sempre com um olho nos códigos e o outro em novas tendências!💡  
 
 ## 🛠️ Habilidades  
-- **Linguagens:** Python, Java, SQL  
+- **Linguagens:** Python, JavaScript, Java, SQL  
 - **Ferramentas:** HTML, Excel, Microsoft 365, Jira  
 - **Conhecimentos:** Programação, Qualidade de Software, Modelagem de Dados, Análise de Dados
 
