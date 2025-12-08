@@ -11,9 +11,9 @@ de Dados, Big Data (conceitos), ETL, Machine Learning (conceitos), Inteligência
 
 **Aqui estão algumas das tecnologias que mais uso e o percentual de uso delas nos meus projetos:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCaroline&layout=compact&theme=dark&title_color=8A2BE2&text_color=FFFFFF&bg_color=00000000&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats-api.vercel.app/api/top-langs/?username=BeatrizCaroline&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeatrizCaroline&show_icons=true&theme=dark&title_color=8A2BE2&text_color=FFFFFF&bg_color=00000000&hide_border=true&icon_color=8A2BE2&hide_title=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=BeatrizCaroline&theme=radical&hide_border=true)
 
 ## 📌 Projetos Acadêmicos  
 🎮 **[2/2023] Startup para o mercado de E-Sports**  
