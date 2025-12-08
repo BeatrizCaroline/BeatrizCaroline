@@ -4,15 +4,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade S�
 Programadora em evolução, sempre com um olho nos códigos e o outro em novas tendências!💡  
 
 ## 🛠️ Habilidades  
-- **Linguagens:** Python, JavaScript, Java, SQL  
-- **Ferramentas:** HTML, Excel, Microsoft 365, Jira  
-- **Conhecimentos:** Programação, Qualidade de Software, Modelagem de Dados, Análise de Dados
+- **Linguagens:** Python, Java, SQL, JavaScript (Node.js), HTML, CSS, ABAP Cloud (iniciante)
+- **Ferramentas:** MySQL, PostgreSQL, Postman, Git, GitHub, Jira, Excel, Microsoft 365, Microsoft Copilot, AWS, SAP
+- **Conhecimentos:** Desenvolvimento de Software, Qualidade de Software, Modelagem e Análise de Dados, Estatística, Visualização
+de Dados, Big Data (conceitos), ETL, Machine Learning (conceitos), Inteligência Artificial (conceitos), Metodologias Ágeis, Arquitetura e Desenvolvimento em Nuvem (AWS), APIs, Versionamento de Código
 
 **Aqui estão algumas das tecnologias que mais uso e o percentual de uso delas nos meus projetos:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCaroline&langs_count=10&layout=compact&bg_color=000000&text_color=FFFFFF&icon_color=8A2BE2&title_color=8A2BE2&bar_color=E0E0E0&langs=pt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCaroline&layout=compact&theme=dark&title_color=8A2BE2&text_color=FFFFFF&bg_color=00000000&hide_border=true&langs_count=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeatrizCaroline&show_icons=true&count_private=true&hide=prs&hide_title=true&bg_color=000000&text_color=FFFFFF&icon_color=8A2BE2&circle_color=8A2BE2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeatrizCaroline&show_icons=true&theme=dark&title_color=8A2BE2&text_color=FFFFFF&bg_color=00000000&hide_border=true&icon_color=8A2BE2&hide_title=false&include_all_commits=true&count_private=true)
 
 ## 📌 Projetos Acadêmicos  
 🎮 **[2/2023] Startup para o mercado de E-Sports**  
