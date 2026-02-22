@@ -4,10 +4,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade S�
 Programadora em evolução, sempre com um olho nos códigos e o outro em novas tendências!💡  
 
 ## 🛠️ Habilidades  
-- **Linguagens:** Python, Java, SQL, JavaScript (Node.js), HTML, CSS, ABAP Cloud (iniciante)
-- **Ferramentas:** MySQL, PostgreSQL, Postman, Git, GitHub, Jira, Excel, Microsoft 365, Microsoft Copilot, AWS, SAP
-- **Conhecimentos:** Desenvolvimento de Software, Qualidade de Software, Modelagem e Análise de Dados, Estatística, Visualização
-de Dados, Big Data (conceitos), ETL, Machine Learning (conceitos), Inteligência Artificial (conceitos), Metodologias Ágeis, Arquitetura e Desenvolvimento em Nuvem (AWS), APIs, Versionamento de Código
+- **Linguagens:** JavaScript (Node.js), HTML, CSS, Python, SQL, Java, ADVPL (iniciante)
+- **Ferramentas:** MySQL, PostgreSQL, SQLServer, Postman, Git, GitHub, Jira, Cypress, Selenium, Excel, Microsoft 365, Microsoft Copilot, AWS, Protheus, TDS, SAP, Canva
+- **Conhecimentos:** Desenvolvimento de Software, Qualidade de Software, Automação de Testes Web, Testes End-to-End, Modelagem e Análise de Dados, Estatística, Visualização de Dados, Big Data (conceitos), ETL, ERP, Machine Learning (conceitos), Inteligência Artificial (conceitos), Metodologias Ágeis, Arquitetura e Desenvolvimento em Nuvem (AWS), APIs, Versionamento de Código
 
 **Aqui estão algumas das tecnologias que mais uso e o percentual de uso delas nos meus projetos:**
 
