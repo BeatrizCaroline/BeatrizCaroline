@@ -31,9 +31,9 @@ Criamos uma metodologia para avaliar eletrônicos com base em **estado físico, 
 🏅 **Nota: 92**  
 
 ## 🎯 Objetivos  
-✅ Consolidar minha carreira como programadora.  
-✅ Contribuir para o desenvolvimento de soluções tecnológicas inovadoras.  
-✅ Aprender e crescer continuamente na área de tecnologia.  
+✅ Contribuir para o desenvolvimento de soluções tecnológicas inovadoras  
+✅ Aplicar inteligência artificial para otimizar processos e melhorar a tomada de decisão
+✅ Aprender e crescer continuamente na área de tecnologia
 
 📫 **Conecte-se comigo!**  
 [LinkedIn](www.linkedin.com/in/beatriz-caroline-br)
