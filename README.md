@@ -32,7 +32,7 @@ Criamos uma metodologia para avaliar eletrônicos com base em **estado físico, 
 
 ## 🎯 Objetivos  
 ✅ Contribuir para o desenvolvimento de soluções tecnológicas inovadoras  
-✅ Aplicar inteligência artificial para otimizar processos e melhorar a tomada de decisão
+✅ Aplicar inteligência artificial para otimizar processos e melhorar a tomada de decisão  
 ✅ Aprender e crescer continuamente na área de tecnologia
 
 📫 **Conecte-se comigo!**  
