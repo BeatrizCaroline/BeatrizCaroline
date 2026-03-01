@@ -1,7 +1,10 @@
 # ☕ Entre códigos e café, construindo meu futuro tech! 👾
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade São Judas Tadeu** e atuo como **estagiária de tecnologia (QA)**.  
-Programadora em evolução, sempre com um olho nos códigos e o outro em novas tendências!💡  
+Sou formada em Análise e Desenvolvimento de Sistemas e atuei como Estagiária de QA no setor de Escritório de Projetos, com foco em testes funcionais, de compatibilidade e responsividade, além de testes manuais em homologação e produção. Realizei validações de API com Postman (análise de status codes e payloads), consultas em PostgreSQL para conferência de dados e apoio na análise de requisitos e regras de negócio com a equipe e stakeholders. Criei, organizei e acompanhei chamados no Jira, detalhando cenários, evidências e impactos, além de executar retestes e validações de regressão. Também auxiliei na definição de casos de teste, checklists, documentação de funcionalidades e monitoramento das entregas em sprints, participando de rituais ágeis e colaborando na padronização de processos de QA.
+
+Atualmente, estou me aprofundando em automação de testes com Cypress e Selenium. Possuo conhecimentos em Java, JavaScript, Python, SQL e fundamentos em AWS, APIs e versionamento com Git.
+
+Tenho forte interesse em Inteligência Artificial aplicada ao Desenvolvimento e à Qualidade, com foco em otimização de processos e melhoria contínua, e pretendo realizar uma pós-graduação em IA voltada à prática em engenharia de software.💡  
 
 ## 🛠️ Habilidades  
 - **Linguagens:** JavaScript (Node.js), HTML, CSS, Python, SQL, Java, ADVPL (iniciante)
